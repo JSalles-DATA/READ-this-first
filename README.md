@@ -13,12 +13,12 @@ I build projects that are practical, portfolio-ready, and easy to understand.
 ### Program Impact Reporting System
 - Simulates, cleans, and analyzes community program data  
 - Generates key metrics and charts for decision-making  
-- Repo: https://github.com/YOUR_USERNAME/program-impact-reporting-system
+- Repo: https://github.com/JSalles-DATA/program-impact-reporting-system
 
 ### AutoChart Builder
 - Upload a CSV, generate charts, and save summaries automatically  
 - Interactive and beginner-friendly reporting tool  
-- Repo: https://github.com/YOUR_USERNAME/auto-chart-builder
+- Repo: https://github.com/JSalles-DATA/auto-chart-builder
 
 ---
 
